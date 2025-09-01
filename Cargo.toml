@@ -1,0 +1,13 @@
+[package]
+name = "crawler"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+tokio = { version = "1", features = ["full"] }
+tokio-rustls = "0.24"
+rustls = "0.21"
+webpki-roots = "0.25"
+regex = "1"
+fantoccini = "0.21"
+url = "2.4"

@@ -1,0 +1,1 @@
+https://github.com/ParadoxPD/tmux-sessionizer => ["🧠 tmux-sessionizer"]
